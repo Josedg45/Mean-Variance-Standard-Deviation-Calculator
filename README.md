@@ -11,14 +11,5 @@ This project implements a Python function `calculate()` that computes various st
 - **Comprehensive Statistics**: Calculates mean, variance, standard deviation, max, min, and sum along both rows, columns, and the flattened matrix.
 - **Dictionary Output**: Returns results in a structured dictionary format, making it easy to interpret and use the computed statistics.
 
-## Installation
-
-To set up the project locally or in a development environment like Gitpod, follow these steps:
 
 
-## Testing
-The project includes unit tests to ensure the correctness of the calculate function. You can run the tests using the following command:
-
-bash
-Copiar código
-python3 -m unittest test_module.py
