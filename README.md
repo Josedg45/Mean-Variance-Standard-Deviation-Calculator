@@ -15,7 +15,10 @@ This project implements a Python function `calculate()` that computes various st
 
 To set up the project locally or in a development environment like Gitpod, follow these steps:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
-   cd your_repository
+
+## Testing
+The project includes unit tests to ensure the correctness of the calculate function. You can run the tests using the following command:
+
+bash
+Copiar código
+python3 -m unittest test_module.py
