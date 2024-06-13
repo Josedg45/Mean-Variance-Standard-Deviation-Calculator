@@ -11,25 +11,6 @@ This project implements a Python function to compute the mean, variance, standar
 - **Comprehensive Statistics**: Calculates mean, variance, standard deviation, max, min, and sum along both rows, columns, and the flattened matrix.
 - **Dictionary Output**: Returns results in a structured dictionary format, making it easy to interpret and use the computed statistics.
 
-## Installation
-
-To set up the project locally or in a development environment like Gitpod, follow these steps:
-
-1. **Clone the Repository**: Download the project repository from GitHub to your local machine.
-
-    ```bash
-    git clone https://github.com/your_username/your_repository.git
-    cd your_repository
-    ```
-
-2. **Install Dependencies**: Ensure you have Python installed. Create a virtual environment and activate it, then install Numpy.
-
-    ```bash
-    python3 -m venv env
-    source env/bin/activate
-    pip install numpy
-    ```
-
 ## Usage
 
 To use the `calculate` function, run the `main.py` file. This file demonstrates how to use the function with a sample input and prints the results.
